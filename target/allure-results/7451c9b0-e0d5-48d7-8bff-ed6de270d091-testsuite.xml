@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1550470480896" stop="1550470483264" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : tang-travel</name>
+    <title>Default Suite : tang-travel</title>
+    <test-cases>
+        <test-case start="1550470482227" stop="1550470482944" status="passed">
+            <name>feature[To book flight]</name>
+            <description>Runs Cucumber Feature</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="C02S8XGYFVH3"/>
+                <label name="thread" value="59141@C02S8XGYFVH3.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

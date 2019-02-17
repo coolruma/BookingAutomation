@@ -1,0 +1,8 @@
+de\smava\pageobjects\Page.class
+de\smava\dataobjects\User.class
+de\smava\pageobjects\registrationpage\CreditStep.class
+de\smava\pageobjects\registrationpage\PersonStep.class
+de\smava\pageobjects\landingpage\LoanSelectionSection.class
+de\smava\core\SelTestCase.class
+de\smava\dataobjects\Gender.class
+de\smava\pageobjects\landingpage\ResultSection.class
